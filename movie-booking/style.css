@@ -13,3 +13,22 @@ body {
   font-family: "Lato", sans-serif;
   margin: 0;
 }
+
+.movie-container {
+  margin: 20px 0;
+}
+/* the appearance none, and the associated webkits
+allow you to modify the look of form interface elements like
+select, input, button, textarea, details, progress and others */
+
+.movie-container select {
+  background-color: #fff;
+  border: 0;
+  border-radius: 5px;
+  font-size: 14px;
+  margin-left: 10px;
+  padding: 5px 15px 5px 15px;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
