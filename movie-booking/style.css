@@ -62,6 +62,7 @@ select, input, button, textarea, details, progress and others */
   margin-left: 18px;
 }
 
+/* using the not psuedo selector */
 .seat:not(.occupied):hover {
   cursor: pointer;
   transform: scale(1.2);
