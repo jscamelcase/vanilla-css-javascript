@@ -1,3 +1,13 @@
+/* this project includes:
+- advanced queries turned into node lists with querySelectorAll
+- .map, .forEach, and indexOf for matching
+- using the selectedIndex property on select lists
+- local storage
+- use of the not selector in css
+- use of nth of type selector
+- use of the perspective and rotateX property
+*/
+
 //selecting required elements
 const container = document.querySelector(".container");
 /* puts mutiple selected elements into a node list
