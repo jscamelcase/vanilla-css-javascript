@@ -1,3 +1,11 @@
+/* We did the following in this project:
+
+-  use svg, css, and javascript for animations
+-  dynamic content display using map higher order array method
+-  timed notificaitons
+
+*/
+
 const wordEl = document.getElementById("word");
 const wrongLettersEl = document.getElementById("wrong-letters");
 const playAgainBtn = document.getElementById("play-button");
